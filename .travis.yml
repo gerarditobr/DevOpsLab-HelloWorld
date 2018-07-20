@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $HEROKU-API-KEY
+    secure: $HROKU-API-KEY
   app: devopslab-helloworld-gerardito
